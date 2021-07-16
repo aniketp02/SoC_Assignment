@@ -1,3 +1,8 @@
+*.npy
+*.csv
+combined_faces/
+test-images/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
